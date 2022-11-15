@@ -1,3 +1,4 @@
+# cambio 1 para ejercicio bifurcación
 
 # react-native-rate
 React Native Rate is a cross platform solution to getting users to easily rate your app.
